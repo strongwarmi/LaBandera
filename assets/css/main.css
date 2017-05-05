@@ -1,7 +1,10 @@
+body{
+  font-family: 'Raleway',sans-serif;
+}
 .Contenedor{
   border: 1px solid #ddd;
 }
-.Punto1{
+.Overflow{
   overflow: auto;
 }
 .MedidasDiv{
