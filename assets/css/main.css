@@ -1,6 +1,8 @@
 .Contenedor{
   border: 1px solid #ddd;
-
+}
+.Punto1{
+  overflow: auto;
 }
 .MedidasDiv{
   width: 250px;
