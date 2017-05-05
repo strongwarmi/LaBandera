@@ -26,3 +26,6 @@ body{
 .Right{
   float: right;
 }
+a:hover{
+  color: #FF00BF;
+}
