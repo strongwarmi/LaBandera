@@ -1,0 +1,23 @@
+.Contenedor{
+  border: 1px solid #ddd;
+
+}
+.MedidasDiv{
+  width: 250px;
+  height: 150px;
+}
+.amarillo{
+  background-color: yellow;
+}
+.azul{
+  background-color: blue;
+}
+.rojo{
+  background-color: red;
+}
+.Left{
+  float: left;
+}
+.Right{
+  float: right;
+}
